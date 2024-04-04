@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf70952-71a2-42e9-9782-e2ed09774240" name="Changes" comment="" />
+    <list default="true" id="baf70952-71a2-42e9-9782-e2ed09774240" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Furniture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Furniture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity3/Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity3/Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity3/CircleCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity3/CircleCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity3/Names/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity3/Names/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity4/CovertTemp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity4/CovertTemp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity4/DayOfWeek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity4/DayOfWeek/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity4/PizzaSize/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity4/PizzaSize/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity4/PizzaSize/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity4/PizzaSize/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity4/Seasons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity4/Seasons/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity5/AreaCalculation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity5/AreaCalculation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity5/SimpleIntrest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity5/SimpleIntrest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class-Activity5/SimpleIntrest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class-Activity5/SimpleIntrest/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,23 +27,26 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dM24IP18G8eY4JdN4shenKoRGh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Room.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
